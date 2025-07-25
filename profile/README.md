@@ -81,6 +81,7 @@ Git-flow 전략을 기반으로 main, develop 브랜치와 feature 보조 브랜
 - [그룹 커뮤니케이션 : 채팅](#그룹-커뮤니케이션--채팅)
 - [앨범](#앨범)
 - [마이페이지](#마이페이지)
+- [게임](#게임-공지)
 
 ### [로그인]
 
@@ -140,3 +141,48 @@ Git-flow 전략을 기반으로 main, develop 브랜치와 feature 보조 브랜
 ### [마이페이지]
 
 ![](https://velog.velcdn.com/images/yoominlee00/post/bda26525-6329-4c9c-bd2a-00fcad4b5dd8/image.gif)
+
+## [게임 모드]
+
+더 많은 픽셀을 자신의 색상으로 칠하면 이기는 게임.
+
+### 게임 공지
+
+![](https://velog.velcdn.com/images/yoominlee00/post/fa5acef5-45fb-40e4-85e8-778b48ac1fa6/image.png)
+
+- 게임 시작 30초 전 접속한 모든 유저에게 전체 공지창이 나타남
+
+### 게임 대기 및 색상 할당
+
+![](https://velog.velcdn.com/images/yoominlee00/post/4d970306-26c6-4bd2-b5fb-38f8b5b8f999/image.gif)
+
+- 대기 화면에서 플레이어 마다 고유의 색상이 랜덤 배정
+- 게임 모드에서는 미리 배정받은 색상으로 만 색칠이 가능
+
+### 자유 색칠
+
+![](https://velog.velcdn.com/images/yoominlee00/post/278231d4-438a-479f-b86a-62943ca78053/image.gif)
+
+- 검은색 픽셀은 아직 주인이 없는 빈 공간
+- [조작법]
+  - PC: 방향키 이동 + Enter키로 칠하기
+  - 모바일: 더블 탭
+
+### 픽셀 탈취 시도
+
+![](https://velog.velcdn.com/images/yoominlee00/post/7373ad0d-18f0-4634-9c6b-7d0e98b61814/image.gif)
+
+### 문제 풀이
+
+![](https://velog.velcdn.com/images/yoominlee00/post/6cf402a6-a5f7-43b7-bdf9-496a35c4646b/image.gif)
+
+- 정답을 맞히면 탈취 성공, 해당 픽셀이 내 색상으로 변경
+- 오답일 경우 생명 1개 차감
+- 생명은 2개가 주어짐
+
+### 탈락
+
+![](https://velog.velcdn.com/images/yoominlee00/post/3de66a94-6cfd-4e50-b6f6-37d7db768164/image.gif)
+
+- 생명을 모두 소진시 탈락
+- 탈락시 보유하던 픽셀이 모두 검은색으로 처리
