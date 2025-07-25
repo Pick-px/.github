@@ -39,7 +39,11 @@ Pick-Px는 사용자들이 실시간으로 함께 픽셀 아트를 그릴 수 �
 
 <img width="569" height="350" alt="image" src="https://github.com/user-attachments/assets/c130f82c-dc27-4c7e-ad5c-6d009c650cc7" />
 
+</br>
+
 ## 아키텍처
+
+<img width="1290" height="594" alt="image" src="https://github.com/user-attachments/assets/baae97f2-000f-47c4-ba96-29e0c892ccd5" />
 
 </br>
 
@@ -56,9 +60,15 @@ Git-flow 전략을 기반으로 main, develop 브랜치와 feature 보조 브랜
 
 ## 발표 및 시연 영상
 
+[시연 영상 링크](https://drive.google.com/file/d/1_6sUWeImzXtCVJP6TgkXGxc7J5MaAzxY/view?usp=sharing)
+
 </br>
 
 ## 게임 설명 영상
+
+[게임 설명 영상 링크](https://youtu.be/9MYnUduKhLQ?si=DiZa1nxFdAFxkWcp)
+
+</br>
 
 ### 목차
 
